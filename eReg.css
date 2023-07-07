@@ -1,0 +1,20 @@
+BODY { 	FONT-SIZE: 9pt; FONT-FAMILY: verdana, Arial,Geneva;color : #76273c; }
+P {	FONT-SIZE: 9pt; FONT-FAMILY: verdana, Arial,Geneva}
+TD {	FONT-SIZE: 9pt; FONT-FAMILY: verdana, Arial,Geneva}
+STRONG {	FONT-WEIGHT: bold; FONT-SIZE: 9pt; FONT-FAMILY: verdana, Arial,Geneva}
+TH {	FONT-WEIGHT: bold; FONT-SIZE: 9pt; FONT-FAMILY: verdana, Arial,Geneva}
+B {	FONT-WEIGHT: bold; FONT-SIZE: 9pt; FONT-FAMILY: verdana, Arial,Geneva}
+I {	FONT-STYLE: italic; FONT-SIZE: 9pt; FONT-FAMILY: verdana, Arial,Geneva}
+INPUT {	FONT-SIZE: 8pt; COLOR: #000000; LINE-HEIGHT: 11px; FONT-STYLE: normal; FONT-FAMILY: verdana, helvetica, sans-serif}
+SELECT {	FONT-SIZE: 8pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: verdana, helvetica, sans-serif}
+.header {	FONT-WEIGHT: bold; FONT-SIZE: 14pt; font-style : italic;}
+.redtext {	color : Red;}
+.agreement {	FONT-SIZE: 8pt; COLOR: #000000}
+.card {	FONT-SIZE: 9pt; COLOR: #000000}
+.barhdr{	FONT-WEIGHT: bold; FONT-SIZE: 9pt; FONT-FAMILY: verdana, Arial,Geneva}
+.optional{	FONT-WEIGHT: bold; FONT-SIZE: 9pt; FONT-FAMILY: verdana, Arial,Geneva; color : Blue}
+.mandatory{	FONT-WEIGHT: bold; FONT-SIZE: 9pt; FONT-FAMILY: verdana, Arial,Geneva; color : Red}
+.complete{	FONT-WEIGHT: bold; FONT-SIZE: 9pt; FONT-FAMILY: verdana, Arial,Geneva; color : Green;}
+.outstanding{	FONT-WEIGHT: bold; FONT-SIZE: 9pt; FONT-FAMILY: verdana, Arial,Geneva; color : Red;}
+.optoutstanding{	FONT-WEIGHT: bold; FONT-SIZE: 9pt; FONT-FAMILY: verdana, Arial,Geneva; color : Blue;}
+.menuhdr{	FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: verdana, Arial,Geneva}
